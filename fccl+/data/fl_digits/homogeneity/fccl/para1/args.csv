@@ -1,0 +1,2 @@
+parti_num,public_dataset,public_len,pub_aug,get_time,communication_epoch,local_lr,public_lr,local_epoch,public_epoch,public_batch_size,local_batch_size,off_diag_weight
+4,pub_cifar100,5000,weak,False,40,0.001,0.001,20,1,256,128,0.0051
